@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c43c0b97-1975-4fa0-b7a7-085e0c4fb5d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules/scala-specialization-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/scala-specialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scalafix.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/MOOCSettings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentTasks.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSetInterface.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week1/First.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week2/HighOrder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week2/SquareRoot.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week3/HierarchiesBinaryTree.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week4/List.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/.idea/modules/Hands on-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/.idea/modules/Hands on-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/.idea/modules/Hands on.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/.idea/modules/Hands on.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$08a31a1e1beb1f669275$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$08a31a1e1beb1f669275.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$08a31a1e1beb1f669275.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$78cdf27d83cc3c38214a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$78cdf27d83cc3c38214a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$78cdf27d83cc3c38214a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$e390372f18dcc110c765$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$e390372f18dcc110c765.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$e390372f18dcc110c765.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$ebd763740aee0f2e26f5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$ebd763740aee0f2e26f5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/config-classes/$ebd763740aee0f2e26f5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/src/main/scala/First.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/src/main/scala/FunctionsAndData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/src/main/scala/functional/principles/week3/FunctionsAndData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/src/main/scala/HighOrder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/src/main/scala/SquareRoot.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hands on/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hands on/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gnF0qTrGw9plYaA6eI59PEFiiT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.XML" />
+  </component>
+  <component name="RunManager" selected="JUnit.TweetSetSuite">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="objsets.Main" />
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="filter$colon$u0020a$u0020on$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.filter$colon$u0020on$u0020empty$u0020set" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="filter$colon$u0020on$u0020empty$u0020set" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TweetSetSuite" />
+        <item itemvalue="JUnit.TweetSetSuite.filter$colon$u0020on$u0020empty$u0020set" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43c0b97-1975-4fa0-b7a7-085e0c4fb5d1" name="Default Changelist" comment="" />
+      <created>1598742229018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598742229018</updated>
+      <workItem from="1598742231725" duration="215000" />
+      <workItem from="1598742463838" duration="631000" />
+      <workItem from="1598815808011" duration="1826000" />
+      <workItem from="1598818040465" duration="3722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1598830277858">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1598830277858" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1598817576347">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598817576347" />
+    <state width="778" height="222" key="GridCell.Tab.0.bottom" timestamp="1598830590600">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598830590600" />
+    <state width="778" height="222" key="GridCell.Tab.0.center" timestamp="1598830590600">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598830590600" />
+    <state width="778" height="222" key="GridCell.Tab.0.left" timestamp="1598830590600">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598830590600" />
+    <state width="778" height="222" key="GridCell.Tab.0.right" timestamp="1598830590600">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="778" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598830590600" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1598817599388">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1598817599388" />
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598821727418">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1598821727418" />
+    <state x="507" y="163" width="820" height="534" key="find.popup" timestamp="1598830732147">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="163" width="820" height="534" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1598830732147" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1598829029585">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1598829029585" />
+  </component>
+</project>
